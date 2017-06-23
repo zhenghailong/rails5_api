@@ -26,6 +26,7 @@ gem 'bcrypt', '~> 3.1.7'
 # gem 'rack-cors'
 
 gem 'doorkeeper'
+gem 'doorkeeper-i18n'
 gem 'doorkeeper-openid_connect'
 
 group :development, :test do
